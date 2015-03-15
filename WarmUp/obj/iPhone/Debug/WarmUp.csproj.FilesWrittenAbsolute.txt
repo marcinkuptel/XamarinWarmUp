@@ -1,0 +1,12 @@
+/Users/mku/Documents/Private projects/Xamarin/WarmUp/WarmUp/obj/iPhone/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/mku/Documents/Private projects/Xamarin/WarmUp/WarmUp/obj/iPhone/Debug/ibtool/LaunchScreen.nib
+/Users/mku/Documents/Private projects/Xamarin/WarmUp/WarmUp/obj/iPhone/Debug/ibtool/MainStoryboard.storyboardc/Info.plist
+/Users/mku/Documents/Private projects/Xamarin/WarmUp/WarmUp/obj/iPhone/Debug/ibtool/MainStoryboard.storyboardc/UIViewController-vXZ-lx-hvc.nib
+/Users/mku/Documents/Private projects/Xamarin/WarmUp/WarmUp/obj/iPhone/Debug/ibtool/MainStoryboard.storyboardc/vXZ-lx-hvc-view-kh9-bI-dsS.nib
+/Users/mku/Documents/Private projects/Xamarin/WarmUp/WarmUp/obj/iPhone/Debug/actool/partial-info.plist
+/Users/mku/Documents/Private projects/Xamarin/WarmUp/WarmUp/obj/iPhone/Debug/actool/asset-manifest.plist
+/Users/mku/Documents/Private projects/Xamarin/WarmUp/WarmUp/obj/iPhone/Debug/
+/Users/mku/Documents/Private projects/Xamarin/WarmUp/WarmUp/bin/iPhone/Debug/WarmUp.exe.mdb
+/Users/mku/Documents/Private projects/Xamarin/WarmUp/WarmUp/bin/iPhone/Debug/WarmUp.exe
+/Users/mku/Documents/Private projects/Xamarin/WarmUp/WarmUp/obj/iPhone/Debug/WarmUp.exe
+/Users/mku/Documents/Private projects/Xamarin/WarmUp/WarmUp/obj/iPhone/Debug/WarmUp.exe.mdb

@@ -1,0 +1,29 @@
+# Version: 8.8.0.2 (ccfcd59)
+# [first argument, ignore] # /Users/mku/Documents/Private projects/Xamarin/WarmUp/WarmUp/mtouch.exe
+/Library/Frameworks/Xamarin.iOS.framework/Versions/8.8.0.2/bin/mtouch-64 \
+	--cache \
+	"/Users/mku/Documents/Private projects/Xamarin/WarmUp/WarmUp/obj/iPhoneSimulator/Debug/mtouch-cache" \
+	--sim \
+	"/Users/mku/Documents/Private projects/Xamarin/WarmUp/WarmUp/bin/iPhoneSimulator/Debug/WarmUp.app" \
+	--executable \
+	WarmUp \
+	--debug \
+	--nolink \
+	--sdkroot \
+	/Applications/Xcode.app/Contents/Developer \
+	--sdk \
+	8.2 \
+	--targetver \
+	8.0 \
+	--abi=i386 \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Xml.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/Xamarin.iOS.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Core.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/mscorlib.dll \
+	"/Users/mku/Documents/Private projects/Xamarin/WarmUp/WarmUp/bin/iPhoneSimulator/Debug//WarmUp.exe" \
